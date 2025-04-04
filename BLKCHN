@@ -1,0 +1,4 @@
+cd AutoGenius-X/blockchain
+npm init -y  # Creates package.json
+npm install dotenv @openzeppelin/contracts
+truffle init  # Initializes Truffle for smart contracts
